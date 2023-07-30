@@ -10,7 +10,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Task2.Hexadecimal.Run();
+            //Task2.Hexadecimal.Run();
+            Task2.Second.Run();
         }
     }
 }
