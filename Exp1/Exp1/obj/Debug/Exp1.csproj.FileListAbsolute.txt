@@ -1,0 +1,8 @@
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\bin\Debug\Exp1.exe.config
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\bin\Debug\Exp1.exe
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\bin\Debug\Exp1.pdb
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\obj\Debug\Exp1.csproj.AssemblyReference.cache
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\obj\Debug\Exp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\obj\Debug\Exp1.csproj.CoreCompileInputs.cache
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\obj\Debug\Exp1.exe
+C:\Users\Siddhant\Desktop\clg\7 SEM\C#\Task\Exp1\Exp1\obj\Debug\Exp1.pdb
